@@ -11,7 +11,7 @@
 Welcome to my github page. I am machine learning developer, like to explore new ways to find innovative business solutions using power of data. Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. My Data Science Blog: [limitless data science](https://limitlessdatascience.wordpress.com/)
 <hr>
 
-### Skills: 👋
+### Skills:
 
 <table>
   <tr>
