@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... My  MS in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA, and my Data Science blog (https://limitlessdatascience.wordpress.com/)
+- 🔭 I’m currently working on ... MS in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA and my [Data Science blog](https://limitlessdatascience.wordpress.com/)
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Data Science Projects
 - 🤔 I’m looking for help with ... AWS
