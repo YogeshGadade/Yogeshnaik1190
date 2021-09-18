@@ -2,7 +2,7 @@
 
 <!--
 **Yogeshnaik1190/Yogeshnaik1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... My  MS in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA, and my Data Science blog
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... email me on either yogeshnaik1190@gmail.com or ygadade@stevens.edu 
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am a national level player in Gymnastics and state level player in Yoga.
--->
+
