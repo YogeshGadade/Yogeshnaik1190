@@ -8,7 +8,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--- Introduction ------>
-Welcome to my github page. I am machine learning developer, like to explore new ways to find innovative business solutions using power of data. Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. My Data Science Blog: [limitless data science](https://limitlessdatascience.wordpress.com/)
+Welcome to my github page. I am machine learning developer with 2.8 years of experience, like to explore new ways to find innovative business solutions using power of data. Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. My Data Science Blog: [limitless data science](https://limitlessdatascience.wordpress.com/)
 <hr>
 
 ### Skills:
