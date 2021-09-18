@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Data Science Projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Data Science ( Machine Learning, Deep Learning, NLP )
-- 📫 How to reach me: ... email me on either yogeshnaik1190@gmail.com or ygadade@stevens.edu 
+- 📫 How to reach me: ... email me on either ygadade@stevens.edu or on yogeshnaik1190@gmail.com 
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am a national level player in Gymnastics and state level player in Yoga.
 
