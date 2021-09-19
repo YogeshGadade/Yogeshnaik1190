@@ -75,5 +75,3 @@ My Data Science website: [limitless data science](https://limitlessdatascience.w
 
 ### Cat lovers this for you :D
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
-
-
