@@ -24,7 +24,7 @@ Welcome to my github page. I am machine learning developer with 2.8 years of exp
     <td>
         <li>Machine Learning, Neural Network, NLP 
         <li>Realtime website vistor data capturing
-        <li>Data Engineering
+        <li>Data Engineering, Data Mining
         <li>Data Analysis (insights finiding)
         <li>Web Scrapping 
         <li>Recommender System, Prediction Models
@@ -42,8 +42,8 @@ Welcome to my github page. I am machine learning developer with 2.8 years of exp
     </td>
      <td>
         <li>Hadoop, Spark 
-        <li>Java Script
-        <li>Django
+        <li>Java Script, Django
+        <li>Tableau 
         <li>C, C++, Java
     </td>
   </tr>
