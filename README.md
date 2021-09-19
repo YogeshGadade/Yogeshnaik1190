@@ -30,7 +30,7 @@ Welcome to my github page. I am machine learning developer with 2.8 years of exp
         <li>Recommender System, Prediction Models
     </td>
     <td>
-        <li>Python
+        <li>Python 
         <li>SQL
         <li>MongoDB
         <li>HTML 
@@ -48,8 +48,6 @@ Welcome to my github page. I am machine learning developer with 2.8 years of exp
     </td>
   </tr>
 </table>
-
-
 <hr>
 
 ### Where to find me
