@@ -44,6 +44,7 @@ Welcome to my github page. I am machine learning developer with 2.8 years of exp
         <li>Hadoop, Spark 
         <li>Java Script
         <li>Django
+        <li>C, C++, Java
     </td>
   </tr>
 </table>
