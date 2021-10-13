@@ -7,7 +7,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--- Introduction ------>
-Welcome to my github page. I am machine learning developer with 2.8 years of experience, like to explore new ways to find innovative business solutions using power of data. Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. 
+Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. I am machine learning developer with 2.8 years of experience, like to explore new ways to find innovative business solutions using power of data. 
 <hr>
 
 ### I can help you with my Skills:
