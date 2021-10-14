@@ -41,6 +41,7 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
         <li>Google Cloud Platform
     </td>
      <td>
+        <li>Git, Github
         <li>Hadoop, Spark 
         <li>Java Script, Django
         <li>Tableau 
