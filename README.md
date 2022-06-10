@@ -67,9 +67,6 @@ My Data Science website: [limitless data science](https://limitlessdatascience.w
     <a href="mailto: yogeshnaik1190@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/Yogeshnaik1190">
-        <img src="https://image.flaticon.com/icons/png/512/25/25657.png" width="30px">
-    </a>&nbsp;&nbsp;
 </div>
 
 <!---------- --------------->
