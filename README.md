@@ -4,7 +4,8 @@
 <!--
 **Yogeshnaik1190/Yogeshnaik1190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi 
+<!-- img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" -->
 
 <!--- Introduction ------>
 Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Institute of Technology, Hoboken, NJ, USA. I am machine learning developer with 2.8 years of experience, like to explore new ways to find innovative business solutions using power of data. 
