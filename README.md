@@ -33,6 +33,7 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
     <td>
         <li>Python 
         <li>SQL
+        <li> R
         <li>MongoDB
         <li>HTML 
     </td>
