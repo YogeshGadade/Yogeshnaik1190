@@ -41,13 +41,12 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
         <li>Git, Github
         <li>Tableau, Power BI 
         <li>Hadoop, Spark 
-
     </td>
+    
     <td>
         <li>Google Cloud Platform
         <li>Matomo 
         <li>Google Tag Manager, JS, HTML
-        
     </td>
      
   </tr>
