@@ -44,9 +44,10 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
 
     </td>
     <td>
-        <li>Matomo 
-        <li>Google Tag Manager
         <li>Google Cloud Platform
+        <li>Matomo 
+        <li>Google Tag Manager, JS, HTML
+        
     </td>
      
   </tr>
