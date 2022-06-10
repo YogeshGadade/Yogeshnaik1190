@@ -18,7 +18,7 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
     <th>Excellent in</th>
     <th>Programming Languages</th>
     <th>Platforms</th>
-    <th>Working Knowledge of</th>
+    <th>Other</th>
   </tr>
   
   <tr>
@@ -38,17 +38,17 @@ Welcome to my github page. I am Pursuing my M.S. in Data Science at Stevens Inst
         <li>HTML 
     </td>
     <td>
+        <li>Git, Github
+        <li>Tableau, Power BI 
+        <li>Hadoop, Spark 
+
+    </td>
+    <td>
         <li>Matomo 
         <li>Google Tag Manager
         <li>Google Cloud Platform
     </td>
-     <td>
-        <li>Git, Github
-        <li>Hadoop, Spark 
-        <li>Java Script, Django
-        <li>Tableau 
-        <li>C, C++, Java
-    </td>
+     
   </tr>
 </table>
 
